@@ -133,7 +133,7 @@ npm start
 **Stop Trading:**
 ctrl + c
 
-![](ss2.jpg)
+![](ss4.jpg)
 ![](preview.jpg)
 
 
